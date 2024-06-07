@@ -16,3 +16,4 @@ sdp_controller.py 作为控制器<br>
 sdp有多种部署模式<br>
 client->servers，服务器部署sdp_gateway.py，作为AH接受客户端的连接。<br>
 client-gateway(部署sdp_gateway.py)-servers 推荐此模式，即通过统一网关对受保护的服务器进行访问。<br>
+推荐模式下
